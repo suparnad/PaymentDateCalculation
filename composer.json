@@ -1,0 +1,15 @@
+{
+  "name": "suparnadebnath/burroughs-debnath-20220619",
+  "autoload": {
+    "psr-4": {
+      "BurroughsTest\\": "src/BurroughsTest/"
+    }
+  },
+  "authors": [
+    {
+      "name": "suparnad",
+      "email": "suparnad@icloud.com"
+    }
+  ],
+  "require": {}
+}
